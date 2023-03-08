@@ -1,0 +1,9 @@
+<archetype>
+  <id>returns-exercise</id>
+  <sources>
+    <source>src/main/java/org.example.App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
